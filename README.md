@@ -38,7 +38,7 @@ To ensure fair comparisons, identical hyperparameters and environmental conditio
 
 ## Results
 
-![Performance Comparison](randomised (3).pdf)
+![Performance Comparison](randomised(3).pdf)
 
 **Key Findings:**
 
