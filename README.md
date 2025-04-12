@@ -2,6 +2,10 @@
 
 This repository implements and compares advanced memory models within Recurrent Neural Networks (RNNs) for control tasks in partially observable environments (POEs). Key models tested include Long Short-Term Memory (LSTM), Context-Adaptive RNN Unit (CARU), Minimal Gated Unit (MGU), and a modified recurrent network without gating, termed “Identity.” These models were evaluated on a dynamic control task to assess their effectiveness in reinforcement learning scenarios.
 
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 ## Overview
 
 This project builds on foundational RNN memory research, exploring how different memory architectures can improve control tasks that require efficient and adaptive memory handling. Each model was trained using Backpropagation Through Time (BPTT) on the **EnvironmentAntfood** task, where agents navigate and learn based on past experiences in dynamic environments.
